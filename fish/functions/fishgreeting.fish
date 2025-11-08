@@ -1,0 +1,3 @@
+function fishgreeting
+    fastfetch
+end
